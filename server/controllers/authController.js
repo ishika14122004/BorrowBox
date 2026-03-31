@@ -6,7 +6,7 @@ const generateToken = (id) => {
 }
 
 const isCollegeEmail = (email) => {
-  const allowedDomains = ["@college.edu", "@vitap.ac.in", "@gmail.com"]
+  const allowedDomains = ["@vitapstudent.ac.in", "@vitap.ac.in"]
   return allowedDomains.some(domain => email.endsWith(domain))
 }
 
