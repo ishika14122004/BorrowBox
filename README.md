@@ -2,6 +2,11 @@
 
 > A college-only marketplace for borrowing, lending, selling items and earning by helping fellow students.
 
+## 🌐 Live Demo
+
+- **Frontend:** https://borrow-box-black.vercel.app
+- **Backend API:** https://borrowbox-api.onrender.com
+
 ![BorrowBox](https://img.shields.io/badge/Stack-MERN-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
